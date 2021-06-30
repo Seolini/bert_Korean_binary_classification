@@ -1,15 +1,10 @@
 # bert_Korean_binary_classification
 일상적인 한국어 대화 유형(일상/연애) 'BERT'로 분류 모델 만들기 (파이썬/colab)
-https://dinolabs.tistory.com/266?category=1203530 (<=프로젝트 관련 글을 작성해놓았습니다😊)
+<br>
+👉[프로젝트 보러가기](https://velog.io/@seolini43/%EC%9D%BC%EC%83%81%EC%97%B0%EC%95%A0-%EC%A3%BC%EC%A0%9C%EC%9D%98-%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%8C%80%ED%99%94-BERT%EB%A1%9C-%EC%9D%B4%EC%A7%84-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0%ED%8C%8C%EC%9D%B4%EC%8D%ACColab-%EC%BD%94%EB%93%9C)👈
 
-
-## BERT
-
-
-## Project description
-
-
-
+<br>
+<br>
 
 
 ## REFERENCE
